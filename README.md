@@ -104,7 +104,7 @@ That last row matters as much as the first. We are not expecting a clean sweep i
 
 ### How to send it
 
-Email **hiring@acttrident.ai** with the subject line:
+Email **akanksha2004singh27@gmail.com** with the subject line:
 
 ```
 Prompt Gate — <your name>
